@@ -4,7 +4,7 @@
 
 <div align="center">
   <h3> 
-    👀 18 y/o Dev based in Vietnam <br>
+    👀 Vibe coder based in Vietnam <br>
     🎓 Studying at University of Transport and Communications (UTC)
   </h3>
 </div>
