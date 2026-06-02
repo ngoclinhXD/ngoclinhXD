@@ -74,7 +74,7 @@
 ### 📊 The Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ngoclinhXD&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=00000000&title_color=F75C7E&icon_color=4B8BBE" alt="stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ngoclinhXD&show_icons=true&theme=radical&hide_border=true" alt="stats" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ngoclinhXD&layout=compact&theme=radical&hide_border=true&bg_color=00000000&title_color=F75C7E&langs_count=8" alt="top langs" />
 </div>
 
