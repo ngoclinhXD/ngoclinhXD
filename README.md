@@ -1,14 +1,5 @@
-<!--
-  ╔══════════════════════════════════════════════════════════╗
-  ║  HEADS UP: replace every "ngoclinhXD" with your real    ║
-  ║  GitHub handle (find + replace). The stat cards / snake    ║
-  ║  won't render until you do that.                           ║
-  ╚══════════════════════════════════════════════════════════╝
--->
-
-<!-- ===================== HEADER ===================== -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&pause=900&color=F75C7E&background=00000000&center=true&vCenter=true&width=650&height=70&lines=Hi%2C+I'm+Azuka+Tanaka+%F0%9F%91%8B;UTC+Student+%7C+Full-Stack+Dev;Building+UMIKA+%F0%9F%A4%96;07+Gamer+%2B+Code+Goblin" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&pause=900&color=F75C7E&background=00000000&center=true&vCenter=true&width=650&height=70&lines=Hi%2C+I'm+Azuka+Tanaka+%F0%9F%91%8B;UTC+Student+%7C+Full-Stack+Dev;07+Gamer+%2B+Code+Goblin" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -33,7 +24,7 @@
 <!-- ===================== FEATURED PROJECT ===================== -->
 ### 🌟 Featured Build — UMIKA
 
-> **UMIKA** is my flagship: a Live2D AI assistant web app (say hi to Huohuo 👋).
+> **UMIKA** is my flagship: a Live2D AI assistant web app (say hi to Umi 👋).
 > SSE streaming chat, lip-sync + expression triggers, RAG, glassmorphism UI — the whole stack.
 
 <div align="center">
@@ -103,9 +94,6 @@
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ngoclinhXD&theme=react-dark&bg_color=00000000&color=F75C7E&line=4B8BBE&point=ffffff&hide_border=true&area=true" alt="activity graph" />
 </div>
-
-<!-- The snake eats your contribution squares 🐍 -->
-<!-- needs a github action: snake-svg generator. setup link in the note below. -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/ngoclinhXD/ngoclinhXD/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 </div>
