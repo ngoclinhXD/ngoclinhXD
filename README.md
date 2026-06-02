@@ -1,5 +1,14 @@
+<!--
+  ╔══════════════════════════════════════════════════════════╗
+  ║  HEADS UP: replace every "ngoclinhXD" with your real    ║
+  ║  GitHub handle (find + replace). The stat cards / snake    ║
+  ║  won't render until you do that.                           ║
+  ╚══════════════════════════════════════════════════════════╝
+-->
+
+<!-- ===================== HEADER ===================== -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&pause=900&color=F75C7E&background=00000000&center=true&vCenter=true&width=650&height=70&lines=Hi%2C+I'm+Azuka+Tanaka+%F0%9F%91%8B;UTC+Student+%7C+Full-Stack+Dev;07+Gamer+%2B+Code+Goblin" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&pause=900&color=F75C7E&background=00000000&center=true&vCenter=true&width=650&height=70&lines=Hi%2C+I'm+Azuka+Tanaka+%F0%9F%91%8B;UTC+Student+%7C+Full-Stack+Dev;Building+UMIKA+%F0%9F%A4%96;07+Gamer+%2B+Code+Goblin" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -13,7 +22,7 @@
 
 <div align="center">
   <h3>
-    👀 Developer From Vietnam 🇻🇳 <br>
+    👀 Coder based in Vietnam 🇻🇳 <br>
     🎓 University of Transport and Communications (UTC) <br>
     🤖 Shipping <b>UMIKA</b> — a Live2D AI assistant
   </h3>
@@ -24,14 +33,14 @@
 <!-- ===================== FEATURED PROJECT ===================== -->
 ### 🌟 Featured Build — UMIKA
 
-> **UMIKA** is my flagship: a Live2D AI assistant web app (say hi to Umi 👋).
+> **UMIKA** is my flagship: a Live2D AI assistant web app (say hi to Huohuo 👋).
 > SSE streaming chat, lip-sync + expression triggers, RAG, glassmorphism UI — the whole stack.
 
 <div align="center">
 
 | | |
 |:--|:--|
-| 🧠 **AI** | Claude · Gemini · Tavily |
+| 🧠 **AI** | Gemini · Groq · Tavily RAG |
 | ☁️ **Infra** | Cloudflare Workers · D1 |
 | 🔐 **Auth** | Firebase · Google OAuth |
 | 🎨 **Frontend** | Vite · PIXI.js · Live2D |
@@ -74,16 +83,12 @@
 ### 📊 The Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ngoclinhXD&show_icons=true&theme=radical&hide_border=true" alt="stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ngoclinhXD&layout=compact&theme=radical&hide_border=true&bg_color=00000000&title_color=F75C7E&langs_count=8" alt="top langs" />
+  <img height="180em" src="./profile/stats.svg" alt="stats" />
+  <img height="180em" src="./profile/top-langs.svg" alt="top langs" />
 </div>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ngoclinhXD&theme=radical&hide_border=true&background=00000000&ring=F75C7E&fire=F75C7E&currStreakLabel=4B8BBE" alt="streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ngoclinhXD&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7" alt="trophies" />
 </div>
 
 ---
@@ -94,6 +99,9 @@
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ngoclinhXD&theme=react-dark&bg_color=00000000&color=F75C7E&line=4B8BBE&point=ffffff&hide_border=true&area=true" alt="activity graph" />
 </div>
+
+<!-- The snake eats your contribution squares 🐍 -->
+<!-- needs a github action: snake-svg generator. setup link in the note below. -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/ngoclinhXD/ngoclinhXD/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 </div>
