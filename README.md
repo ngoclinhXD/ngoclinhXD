@@ -1,6 +1,6 @@
 <!-- ===================== HEADER ===================== -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&pause=900&color=F75C7E&background=00000000&center=true&vCenter=true&width=650&height=70&lines=Hi%2C+I'm+Azuka+Tanaka+%F0%9F%91%8B;UTC+Student+%7C+Full-Stack+Dev;Building+UMIKA+%F0%9F%A4%96;07+Gamer+%2B+Code+Goblin" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&pause=900&color=F75C7E&background=00000000&center=true&vCenter=true&width=650&height=70&lines=Hi%2C+I'm+ngoclin.h_+%F0%9F%91%8B;UTC+Student+%7C+Full-Stack+Dev;07+Gamer+%2B+Code+Goblin" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -16,7 +16,7 @@
   <h3>
     👀 Developer from Vietnam 🇻🇳 <br>
     🎓 University of Transport and Communications (UTC) <br>
-    🤖 Shipping <b>UMIKA</b> — a Live2D AI assistant
+    ✨ Shipping <b>UMIKA</b> — a Live2D AI assistant
   </h3>
 </div>
 
